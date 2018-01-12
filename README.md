@@ -1,6 +1,9 @@
-定位原理：
-当车载摄像头捕获到与其最近的二维码时，通过比较图像中二维码中心点与图像的中心点来计算出车体当前相对该二维码的位置（当车体在二维码的正下方时，二维码将出现在图像中的中心位置），利用二维码的坐标值即可得出车体在坐标系中的位置。
-![image](https://github.com/huzhanxiong/QtProject_License-plate-recognition/blob/master/raw/master/red.png)
+这是一款基于Qt对特定车牌进行检索的软件，支持文件及摄像头、视频，其中车牌识别部分的算法主要来自开源项目EasyPR。
+软件主要有以下两个界面
+1、文件追踪：对指定路径的图片进行搜索，若搜索到图片中含有特定车牌，会对该车牌进行标记并显示到界面上。
+2、视频追踪：选择摄像头或视频文件，对图像中出现的特定车牌进行标记并输出相关信息。
 ![image](https://github.com/huzhanxiong/QtProject_License-plate-recognition/blob/master/raw/t1.png)
-计算方法：
-图像差值计算
+![image](https://github.com/huzhanxiong/QtProject_License-plate-recognition/blob/master/raw/t2.png)
+![image](https://github.com/huzhanxiong/QtProject_License-plate-recognition/blob/master/raw/t3.png)
+![image](https://github.com/huzhanxiong/QtProject_License-plate-recognition/blob/master/raw/t4.png)
+![image](https://github.com/huzhanxiong/QtProject_License-plate-recognition/blob/master/raw/t5.png)
