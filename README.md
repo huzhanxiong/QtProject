@@ -2,7 +2,6 @@
 软件主要有以下两个界面
 
 1、文件追踪：对指定路径的图片进行搜索，若搜索到图片中含有特定车牌，会对该车牌进行标记并显示到界面上。
-
 2、视频追踪：选择摄像头或视频文件，对图像中出现的特定车牌进行标记并输出相关信息。
 ![image](https://github.com/huzhanxiong/QtProject_License-plate-recognition/blob/master/raw/t1.png)
 ![image](https://github.com/huzhanxiong/QtProject_License-plate-recognition/blob/master/raw/t2.png)
