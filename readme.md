@@ -10,18 +10,18 @@ deb http://mirror.csclub.uwaterloo.ca/ubuntu-ports/ trusty-backports main restri
 
 
 
-DOµÄÔ´£º
+DOçš„æºï¼š
 deb http://mirrors.digitalocean.com/debian wheezy main
 deb http://security.debian.org/ wheezy/updates main
 
 
-°¢ÀïÔÆµÄÔ´£º
+é˜¿é‡Œäº‘çš„æºï¼š
 deb http://mirrors.aliyun.com/debian/ wheezy main non-free contrib
 deb http://mirrors.aliyun.com/debian/ wheezy-proposed-updates main non-free contrib
 deb-src http://mirrors.aliyun.com/debian/ wheezy main non-free contrib
 deb-src http://mirrors.aliyun.com/debian/ wheezy-proposed-updates main non-free contrib
 
-ÍøÒ×µÄÔ´£º
+ç½‘æ˜“çš„æºï¼š
 deb http://mirrors.163.com/debian wheezy main non-free contrib
 deb http://mirrors.163.com/debian wheezy-proposed-updates main contrib non-free
 deb http://mirrors.163.com/debian-security wheezy/updates main contrib non-free 
