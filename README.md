@@ -11,3 +11,4 @@
 ![image](https://github.com/huzhanxiong/QtProject_License-plate-recognition/blob/master/raw/t3.png)
 ![image](https://github.com/huzhanxiong/QtProject_License-plate-recognition/blob/master/raw/t4.png)
 ![image](https://github.com/huzhanxiong/QtProject_License-plate-recognition/blob/master/raw/t5.png)
+![image](https://github.com/huzhanxiong/QtProject_License-plate-recognition/blob/master/raw/t6.png)
