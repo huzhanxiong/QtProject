@@ -4,7 +4,7 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    a.setWindowIcon(QIcon(":/wali.ico"));
+    a.setWindowIcon(QIcon(":/image/wali.ico"));
     
     lpr w;
     w.show();
