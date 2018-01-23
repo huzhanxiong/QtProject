@@ -2,5 +2,6 @@
     <qresource prefix="/image">
         <file>image/green.png</file>
         <file>image/red.png</file>
+        <file>wali.ico</file>
     </qresource>
 </RCC>
